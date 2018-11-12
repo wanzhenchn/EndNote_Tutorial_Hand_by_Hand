@@ -1,7 +1,7 @@
 # Endnote-X9-tutorial-hand-by-hand
 
 <div align="center">
-<img src="./resource/picture/EndNote_X9_Logo.png" height=30% width=60% >
+<img src="./resource/picture/EndNote_X9_Logo.png" height=20% width=50% >
 </div>
 
 
