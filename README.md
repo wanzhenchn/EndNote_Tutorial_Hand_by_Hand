@@ -1,8 +1,8 @@
 # Endnote-X8-tutorial-hand-by-hand
 
-![](./resource/picture/EndNote_X9_Logo.png)
+<div align=center>![](./resource/picture/EndNote_X9_Logo.png)
 
-<img src="./resource/picture/EndNote_X9_Logo.png" width = "100" height = "80" div align=center />
+<img src="./resource/picture/EndNote_X9_Logo.png" width = 60% height = 60% div align=center />
 
 文献管理软件EndNote X8史上最全实用教程，提供全方位文献管理与写作技能总结
 
