@@ -36,3 +36,7 @@
 | 第4章 | EndNote X9 的使用进阶 | 界面介绍、数据库创建方法、 文献管理<br>参考文献格式编排、参考文献格式的相关问题|
 | 第5章 | 使用场景 | 文献管理与信息分析的使用场景建议方法 |
 | 拔 | 拔 | 总结与展望 |
+
+
+下载符合国标GB/T 7714-2015 《信息与文献 参考文献著录规则》的style
+[Chinese Std GBT7714 (numeric)_Modified.ens](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource)
