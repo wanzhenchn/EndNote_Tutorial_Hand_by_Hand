@@ -2,6 +2,8 @@
 
 ![](./resource/picture/EndNote_X9_Logo.png)
 
+<img src="./resource/picture/EndNote_X9_Logo.png" width = "100" height = "80" div align=center />
+
 文献管理软件EndNote X8史上最全实用教程，提供全方位文献管理与写作技能总结
 
 1.1 文献管理
