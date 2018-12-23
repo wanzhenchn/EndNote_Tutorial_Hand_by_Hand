@@ -1,5 +1,7 @@
 # Endnote-X9-tutorial-hand-by-hand
 
+Update: 23 Dec. 2018
+
 <div align="center">
 <img src="./resource/picture/EndNote_X9_Logo.png" height=20% width=50% >
 </div>
@@ -41,7 +43,7 @@
 - [手把手教你使用 EndNote X9 PDF版](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand)
 - [手把手教你使用NoteExpress-3.2 PDF版](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand)
 - 符合国标GB/T 7714-2015 《信息与文献 参考文献著录规则》的style文件: [Chinese Std GBT7714 (numeric)_Modified.ens](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource)
-- 修复EdnNote X9导入中国知网、万方等数据库期刊名称无法识别问题：[EndNote Import.enf](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource)
+- 修复EndNote X9导入中国知网、万方等数据库期刊名称无法识别问题：[EndNote Import.enf](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource)
 
 - 国标GB/T 7714-2015 《信息与文献 参考文献著录规则》: [GB/T 7714-2015 《信息与文献 参考文献著录规则》](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/blob/master/resource/%E3%80%90GB%20T7714-2015%E3%80%91%E3%80%8A%E4%BF%A1%E6%81%AF%E4%B8%8E%E6%96%87%E7%8C%AE%20%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E8%91%97%E5%BD%95%E8%A7%84%E5%88%99%E3%80%8B.pdf)
 - 更多资源请关注**微信公众号**：BreakIntoAI
