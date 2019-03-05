@@ -49,4 +49,4 @@
 - 修复EndNote X9导入中国知网、万方等数据库期刊名称无法识别问题：[EndNote Import.enf](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource)
 
 - GB/T 7714-2015 《信息与文献 参考文献著录规则》带书签可复制版: [GB/T 7714-2015 《信息与文献 参考文献著录规则》](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/blob/master/resource/%E3%80%90GBT7714-2015%E3%80%91%E3%80%8A%E4%BF%A1%E6%81%AF%E4%B8%8E%E6%96%87%E7%8C%AE%20%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E8%91%97%E5%BD%95%E8%A7%84%E5%88%99%E3%80%8B%E5%B8%A6%E4%B9%A6%E7%AD%BE%E5%8F%AF%E5%A4%8D%E5%88%B6%E7%89%88.pdf)
-- 如果您觉得有帮助, 请在右上角*star*本项目, 您的“点赞”就是对我最大的支持！ 更多资源请关注**微信公众号**：[BreakIntoAI](https://weixin.sogou.com/weixin?type=1&s_from=input&query=BreakIntoAI&ie=utf8&_sug_=n&_sug_type_=)
+- 如果您觉得有帮助, 请在右上角**star**本项目, 您的“点赞”就是对我最大的支持！ 更多资源请关注**微信公众号**：[BreakIntoAI](https://weixin.sogou.com/weixin?type=1&s_from=input&query=BreakIntoAI&ie=utf8&_sug_=n&_sug_type_=)
