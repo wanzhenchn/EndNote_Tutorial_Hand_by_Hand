@@ -43,8 +43,8 @@
 | 拔 | 拔 | 总结与展望 |
 
 ### 3. 资源下载
-- [手把手教你使用 EndNote X9 PDF版](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/blob/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E4%BD%BF%E7%94%A8EndNote%20X9.pdf) | [EndNote_X9-Windows](https://pan.baidu.com/s/1IKBxzPD65Ua41EXQP651UQ) | [EndNote_X9-Mac](https://pan.baidu.com/s/1IKBxzPD65Ua41EXQP651UQ) 提取码：p4qt
-- [手把手教你使用NoteExpress-3.2 PDF版](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand) | [NoteExpress-Windows](https://pan.baidu.com/s/1IKBxzPD65Ua41EXQP651UQ) 提取码：p4qt
+- [手把手教你使用 EndNote X9 PDF版](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/releases) | [EndNote_X9-Windows](https://pan.baidu.com/s/1IKBxzPD65Ua41EXQP651UQ) | [EndNote_X9-Mac](https://pan.baidu.com/s/1IKBxzPD65Ua41EXQP651UQ) 提取码：p4qt
+- [手把手教你使用NoteExpress-3.2 PDF版](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/releases) | [NoteExpress-Windows](https://pan.baidu.com/s/1IKBxzPD65Ua41EXQP651UQ) 提取码：p4qt
 - 符合国标GB/T 7714-2015 《信息与文献 参考文献著录规则》的style文件: [Chinese Std GBT7714 (numeric)_Modified.ens](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource)
 - 修复EndNote X9导入中国知网、万方等数据库期刊名称无法识别问题：[EndNote Import.enf](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource)
 
