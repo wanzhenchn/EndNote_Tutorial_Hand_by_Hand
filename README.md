@@ -7,7 +7,7 @@
 ### Update
 
 - Update: 9 April 2019
-  - 更新 [Chinese Std GBT7714 (numeric)_Modified.ens](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource) 
+  - 更新 [Chinese Std GBT7714 (numeric)_Modified.ens](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource) ：将作者姓设置为全部大写，名缩写为首字母大写，
   并更名为[Chinese Std GBT7714 (numeric)_20190409.ens](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/blob/master/resource/Chinese%20Std%20GBT7714%20(numeric)_20190409.ens)
   
 - Update: 5 Mar. 2019
