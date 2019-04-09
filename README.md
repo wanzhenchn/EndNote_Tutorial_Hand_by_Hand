@@ -3,7 +3,9 @@
 <div align="center">
 <img src="./resource/picture/EndNote_X9_Logo.png" height=20% width=50% >
 </div>
+
 ### Update
+
 -Update: 9 April 2019
   - 更新 [Chinese Std GBT7714 (numeric)_Modified.ens](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource) 
   并更名为Chinese Std GBT7714 (numeric)_20190409.ens
