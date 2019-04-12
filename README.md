@@ -1,5 +1,5 @@
 # Endnote-X9-tutorial-hand-by-hand
-### 文献管理软件EndNote X9史上最全实用教程，提供全方位文献管理与写作技能总结
+### 文献管理软件EndNote & NoteExpress 史上最全实用教程，提供全方位文献管理与写作技能总结
 <div align="center">
 <img src="./resource/picture/EndNote_X9_Logo.png" height=20% width=50% >
 </div>
