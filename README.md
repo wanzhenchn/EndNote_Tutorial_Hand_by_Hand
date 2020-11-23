@@ -6,6 +6,8 @@
 
 ### Update
 
+- Update: 22 Nov. 2020
+  - 增加EndNote2020版软件下载资源
 - Update: 9 April 2019
   - 更新 [Chinese Std GBT7714 (numeric)_Modified.ens](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource) ：将作者姓设置为全部大写，名缩写为首字母大写，
   并更名为[Chinese Std GBT7714 (numeric)_20190409.ens](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/blob/master/resource/Chinese%20Std%20GBT7714%20(numeric)_20190409.ens)
@@ -48,7 +50,7 @@
 | 拔 | 拔 | 总结与展望 |
 
 ### 3. 资源下载
-- [手把手教你使用 EndNote X9 PDF版](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/releases) | [EndNote_X9-Windows](https://pan.baidu.com/s/1vUH0nIYF8jz5vFRgkFFxpw ) | [EndNote_X9-Mac](https://pan.baidu.com/s/1vUH0nIYF8jz5vFRgkFFxpw) 提取码：qu5a
+- [手把手教你使用 EndNote X9 PDF版](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/releases) | [EndNote20-Windows](https://pan.baidu.com/s/1vUH0nIYF8jz5vFRgkFFxpw ) | [EndNote_X9-Windows](https://pan.baidu.com/s/1vUH0nIYF8jz5vFRgkFFxpw ) | [EndNote_X9-Mac](https://pan.baidu.com/s/1vUH0nIYF8jz5vFRgkFFxpw) 提取码：qu5a
 - [手把手教你使用NoteExpress-3.2 PDF版](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/releases) | [NoteExpress-Windows](https://pan.baidu.com/s/1vUH0nIYF8jz5vFRgkFFxpw) 提取码：qu5a
 - 符合国标GB/T 7714-2015 《信息与文献 参考文献著录规则》的style文件: [Chinese Std GBT7714 (numeric)_20190409.ens](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource)
 - 修复EndNote X9导入中国知网、万方等数据库期刊名称无法识别问题：[EndNote Import.enf](https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand/tree/master/resource)
